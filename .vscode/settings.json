@@ -1,3 +1,4 @@
 {
-    "terminal.explorerKind": "external"
+    "python.pythonPath": "C:\\Users\\hugo\\AppData\\Local\\Programs\\Python\\Python37\\python.exe",
+    "python.linting.pylintEnabled": true
 }
